@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=1E90FF&width=435&lines=Hi%2C+i+am+mrCoolCola!+%F0%9F%91%8B)](https://git.io/typing-svg)
+### About me
+I live in Russia. Using linux from about 11-12 y.o and i love it. Pretty much everything i want to say.
 <hr>
 
 <img src="https://kasroudra-stats-card.onrender.com/user?user=mrCoolCola&theme=dark"/>
-
+<img height=100% src="https://kasroudra-stats-card.onrender.com/lang?user=mrCoolCola&theme=dark&layout=compact"/>
 <hr>
 
-### 💻 My beloved operating systems:
+### 💻 My beloved operating systems
 <div>
   <img src="assets/nixos-original.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
   <img src="assets/archlinux-original.svg" title="Arch" alt="Arch" width="40" height="40"/>
