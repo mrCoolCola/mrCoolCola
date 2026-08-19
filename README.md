@@ -1,15 +1,23 @@
+<!-- Временный костыль -->
+<!-- <style> 
+  body {
+    background: white;
+    color:black;
+  }
+</style> -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=1E90FF&width=435&lines=Hi%2C+i+am+mrCoolCola!+%F0%9F%91%8B)](https://git.io/typing-svg)
+<hr>
+
+<img src="https://kasroudra-stats-card.onrender.com/user?user=mrCoolCola&theme=dark"/>
+
 <hr>
 
 ### 💻 My beloved operating systems:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows7/windows7-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="assets/nixos-original.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
+  <img src="assets/archlinux-original.svg" title="Arch" alt="Arch" width="40" height="40"/>
 </div>
 
 ### My skills:
-#### I can code on:
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust logo" height="1em"> Rust<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" height="1em"> Python<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" height="1em"> Bash
-    
+ - I can code on Rust, Python, HTML and some others
+
