@@ -4,6 +4,6 @@
 
 ### 🛠️ My beloved operating systemd:
 <div>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/windows7/windows7-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
