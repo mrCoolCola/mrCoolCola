@@ -1,10 +1,3 @@
-<!-- Временный костыль -->
-<style> 
-  body {
-    background: white;
-    color:black;
-  }
-</style>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1000&color=1E90FF&width=435&lines=Hi%2C+i+am+mrCoolCola!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <hr>
 
