@@ -9,8 +9,8 @@
 
 ### My skills:
 - I can code on:
-    1. Rust ![Rust logo](https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg)
-    2. Python ![Python logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
-    3. Bash ![Bash logo](https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg)<br>
+    1. Rust <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="Rust logo" height="1em">
+    2. Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Bash logo" height="1em">
+    3. Bash <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash logo" height="1em"><br>
     ...
     
