@@ -11,7 +11,7 @@
 
 <div align="left">
   <img src="https://kasroudra-stats-card.onrender.com/user?user=mrCoolCola&theme=dark"/>
-  <img height=100% src="https://kasroudra-stats-card.onrender.com/lang?user=mrCoolCola&theme=dark&layout=compact"/>
+  <img style="padding-bottom:1em;" height=100% src="https://kasroudra-stats-card.onrender.com/lang?user=mrCoolCola&theme=dark&layout=compact"/>
 </div>
 
 <hr>
