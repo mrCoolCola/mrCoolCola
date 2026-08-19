@@ -9,10 +9,7 @@
 
 <hr>
 
-<div align="left">
-  <img src="https://kasroudra-stats-card.onrender.com/user?user=mrCoolCola&theme=dark"/>
-  <img style="padding-bottom:1em;" height=100% src="https://kasroudra-stats-card.onrender.com/lang?user=mrCoolCola&theme=dark&layout=compact"/>
-</div>
+<img src="https://kasroudra-stats-card.onrender.com/user?user=mrCoolCola&theme=dark"/>
 
 <hr>
 
