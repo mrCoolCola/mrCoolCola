@@ -3,7 +3,7 @@
 1. I live in Russia. Using linux from about 11-12 y.o and i love it. Pretty much everything i want to say.
 2. Some of my repos are already mirrored to Codeberg. I will migrate completely in some time
 ### Social
-<div align="left">
+<div style="display:flex;">
   <a href="https://codeberg.org/mrCoolCola" rel="me"><img src="assets/codeberg.svg" alt="Codeberg" width="40" height="40"></a>
   <a href="https://github.com/mrCoolCola" rel="me"><img src="assets/github.svg" alt="Github" width="40" height="40"></a>
 </div>
